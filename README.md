@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.gif" width="100%" alt="Header">
+</p>
 
-<!--
-**Alizjahan/Alizjahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/statistics-quote.svg" width="650" alt="Your opinion is not p < 0.05">
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Alireza Jahanbakhsh</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  M.Sc. Data Science @ Shahid Beheshti University
+  <br>
+  Statistics • Machine Learning • Data Analysis
+</p>
