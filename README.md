@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/statistics-quote.svg" width="650" alt="Your opinion is not p < 0.05">
+  <img src="./assets/statistics-quote-github-green.svg" width="650" alt="Your opinion is not p < 0.05">
 </p>
 
 <h1 align="center">Alireza Jahanbakhsh</h1>
