@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="./assets/header3.gif" width="100%" alt="Header">
+  <img src="./assets/statistics-quote-github-green2.svg" width="650" alt="Your opinion is not p < 0.05">
 </p>
 
 <p align="center">
-  <img src="./assets/statistics-quote-github-green1.svg" width="650" alt="Your opinion is not p < 0.05">
+  <img src="./assets/header3.gif" width="100%" alt="Header">
 </p>
+
+
 
 <h1 align="center">Alireza Jahanbakhsh</h1>
 
